@@ -21,7 +21,7 @@ Read a page or selection, adjust typography and themes, switch between scrolling
 
 ## 다운로드와 설치 / Download and install
 
-Chrome 130 이상이 필요합니다. Chrome 웹 스토어 등록은 준비 중이며, 현재 GitHub 배포본은 아래 방법으로 설치할 수 있습니다.
+Chrome 130 이상이 필요합니다. Chrome 웹 스토어는 검토 대기 중이며(2026-10-01 제출, 승인 후 자동 게시), 현재 GitHub 배포본은 아래 방법으로 설치할 수 있습니다.
 
 1. [릴리스](https://github.com/koprodev/ezyReader/releases/latest)의 `ezyReader-0.1.9.zip`을 다운로드합니다.
 2. ZIP을 별도 폴더에 압축 해제합니다.
@@ -29,7 +29,7 @@ Chrome 130 이상이 필요합니다. Chrome 웹 스토어 등록은 준비 중�
 4. **압축해제된 확장 프로그램을 로드합니다**를 누르고 `manifest.json`이 있는 폴더를 선택합니다.
 5. 일반 웹페이지를 열고 ezyReader 아이콘 또는 `Alt+Shift+R`을 누릅니다.
 
-Requires Chrome 130+. Download the extension ZIP from Releases, extract it, enable Developer mode at `chrome://extensions`, and choose **Load unpacked**. Select the folder containing `manifest.json`. The Chrome Web Store listing is being prepared.
+Requires Chrome 130+. Download the extension ZIP from Releases, extract it, enable Developer mode at `chrome://extensions`, and choose **Load unpacked**. Select the folder containing `manifest.json`. The Chrome Web Store submission is awaiting review (submitted October 1, 2026), with automatic publication after approval.
 
 Chrome 내부 페이지·웹 스토어·일부 보호된 페이지나 교차 출처 프레임에서는 읽기 화면을 사용할 수 없습니다. / Chrome internal pages, the Web Store, and some protected pages or cross-origin frames cannot be read.
 
