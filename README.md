@@ -1,6 +1,6 @@
-# ezyReader
+# ezy Reader
 
-![ezyReader — 웹페이지를 나만의 독서 공간으로](assets/intro-reading.jpg)
+![ezy Reader — 웹페이지를 나만의 독서 공간으로](assets/intro-reading.jpg)
 
 웹페이지의 본문을 골라 나에게 편한 독서 화면으로 읽는 Chrome 확장 프로그램입니다.
 
@@ -23,11 +23,11 @@ Read a page or selection, adjust typography and themes, switch between scrolling
 
 Chrome 130 이상이 필요합니다. Chrome 웹 스토어는 검토 대기 중이며(2026-10-01 제출, 승인 후 자동 게시), 현재 GitHub 배포본은 아래 방법으로 설치할 수 있습니다.
 
-1. [릴리스](https://github.com/koprodev/ezyReader/releases/latest)의 `ezyReader-0.1.9.zip`을 다운로드합니다.
+1. [릴리스](https://github.com/koprodev/ezyReader/releases/latest)의 `ezyReader-0.1.10.zip`을 다운로드합니다.
 2. ZIP을 별도 폴더에 압축 해제합니다.
 3. Chrome의 `chrome://extensions`에서 **개발자 모드**를 켭니다.
 4. **압축해제된 확장 프로그램을 로드합니다**를 누르고 `manifest.json`이 있는 폴더를 선택합니다.
-5. 일반 웹페이지를 열고 ezyReader 아이콘 또는 `Alt+Shift+R`을 누릅니다.
+5. 일반 웹페이지를 열고 ezy Reader 아이콘 또는 `Alt+Shift+R`을 누릅니다.
 
 Requires Chrome 130+. Download the extension ZIP from Releases, extract it, enable Developer mode at `chrome://extensions`, and choose **Load unpacked**. Select the folder containing `manifest.json`. The Chrome Web Store submission is awaiting review (submitted October 1, 2026), with automatic publication after approval.
 
